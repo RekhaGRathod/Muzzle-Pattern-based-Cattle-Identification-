@@ -1,4 +1,5 @@
 Cattle Identification Using Muzzle Patterns
+
 ● This explores an innovative approach to cattle identification, utilizing distinctive muzzle patterns.
 ● Muzzle patterns, akin to fingerprints, offer a unique and reliable means of distinguishing individual cattle.
 ● The little round-, oval-, or irregular-shaped protuberances on the nose area of cattle muzzle are defined as beads, while the elongated
